@@ -19,7 +19,7 @@ I'm currently building API products and backend infrastructure for developers.
 
 ### Featured Projects
 
-- [AdnanTech]([https://github.com/adnanafzal565/adnan-tech.com]
+- [AdnanTech](https://github.com/adnanafzal565/adnan-tech.com)
   My personal portfolio website
 
 ### Contact
